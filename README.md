@@ -1,6 +1,6 @@
 # 📦 Pipeline Big Data de Réapprovisionnement (Procurement)
 
-Ce projet implémente un pipeline de données complet ("End-to-End") pour automatiser le réapprovisionnement d'une chaîne de supermarchés au Maroc. Il simule la génération de données de ventes, leur stockage distribué sur un cluster Hadoop, et le calcul des besoins de commande via Trino.
+Ce projet implémente un pipeline de données complet ("End-to-End") pour automatiser le réapprovisionnement d'une chaîne de supermarchés. Il simule la génération de données de ventes, leur stockage distribué sur un cluster Hadoop, et le calcul des besoins de commande via Trino.
 
 ## 🚀 Installation & Démarrage Rapide
 
